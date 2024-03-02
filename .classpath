@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/ashot-1.5.4.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/selenium-api-2.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/selenium-remote-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Mphasis/Jar Files/Jar Files/Jar Files/Selenium Jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
